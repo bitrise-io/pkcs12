@@ -1,3 +1,5 @@
+Archived, see this repo for the up-to-date fork: https://github.com/bitrise-io/go-pkcs12
+
 # package pkcs12
 
 [![GoDoc](https://godoc.org/software.sslmate.com/src/go-pkcs12?status.svg)](https://godoc.org/software.sslmate.com/src/go-pkcs12)
